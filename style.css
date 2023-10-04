@@ -1,0 +1,16 @@
+/*celular*/
+@media (max-width:700px){
+    body{background-color: darkred; 
+    }
+}
+@media (min-width:768px){
+    body{
+        background-color: darkslateblue;
+    }
+}
+
+@media (min-width: 992px) {
+body{
+    background-color: darkseagreen;
+}    
+}
